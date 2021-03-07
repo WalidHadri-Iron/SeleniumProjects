@@ -1,2 +1,2 @@
 # Projects
-Projects and works
+This repository is for projects that I have worked on regrouped in folders
