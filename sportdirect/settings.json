@@ -1,0 +1,6 @@
+{"BUCKET_NAME": "data-selenium",
+    "INPUT_FILE" :"Category_Search.xlsx",
+    "AWS_SERVER_PUBLIC_KEY" : "XXXXXXXXXXXXX",
+    "AWS_SERVER_SECRET_KEY" : "XXXXXXXXXXX",
+    "REGION_NAME": "eu-west-3"
+}
